@@ -46,8 +46,8 @@ export default function Home() {
               </Link>
             </li>
             <li>
-              <Link>
-                <a href="/"
+              <Link href="/">
+                <a
                   className="ml-4 whitespace-nowrap flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-900">
                   Sign up 
                 </a>
