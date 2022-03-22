@@ -72,7 +72,7 @@ export default function Home() {
               </div>
             </div>
             <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-              <img class="object-cover object-center rounded" alt="hero image" src="hero.webp" width="auto" height="auto" />
+              <Image class="object-cover object-center rounded" alt="hero image" src="/hero.webp" width="430" height="350" />
             </div>
           </div>
         </section>
@@ -88,8 +88,8 @@ export default function Home() {
             <div class="flex flex-wrap -m-4">
               <div class="p-4 lg:w-1/4 md:w-1/2">
                 <div class="h-full flex flex-col items-center text-center">
-                  <img alt="Faiz" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                    src="faiz.webp" width="auto" height="auto" />
+                  <Image alt="Faiz" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                    src="/faiz.webp" width="380" height="250" />
                   <div class="w-full">
                     <h2 class="title-font font-medium text-lg text-gray-900">Faiz Khan</h2>
                     <h3 class="text-gray-500 mb-3">CEO & Founde</h3>
@@ -119,8 +119,8 @@ export default function Home() {
               </div>
               <div class="p-4 lg:w-1/4 md:w-1/2">
                 <div class="h-full flex flex-col items-center text-center">
-                  <img alt="Zayad" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                    src="zayad.webp" width="auto" height="auto" />
+                  <Image alt="Zayad" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                    src="/zayad.webp" width="380" height="250" />
                   <div class="w-full">
                     <h2 class="title-font font-medium text-lg text-gray-900">Zayad Malik</h2>
                     <h3 class="text-gray-500 mb-3">Marketing Head</h3>
@@ -151,9 +151,9 @@ export default function Home() {
               </div>
               <div class="p-4 lg:w-1/4 md:w-1/2">
                 <div class="h-full flex flex-col items-center text-center">
-                  <img alt="Faizullah"
+                  <Image alt="Faizullah"
                     class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                    src="syed.webp" width="auto" height="auto" />
+                    src="/syed.webp" width="380" height="250" />
                   <div class="w-full">
                     <h2 class="title-font font-medium text-lg text-gray-900">Syed Faizullah</h2>
                     <h3 class="text-gray-500 mb-3">Director Networking</h3>
@@ -184,8 +184,8 @@ export default function Home() {
               </div>
               <div class="p-4 lg:w-1/4 md:w-1/2">
                 <div class="h-full flex flex-col items-center text-center">
-                  <img alt="Maimoona" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                    src="maimoona.webp" width="auto" height="auto" />
+                  <Image alt="Maimoona" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                    src="/maimoona.webp" width="380" height="250" />
                   <div class="w-full">
                     <h2 class="title-font font-medium text-lg text-gray-900">Maimoona Iqbal</h2>
                     <h3 class="text-gray-500 mb-3">Engineering Lead</h3>
